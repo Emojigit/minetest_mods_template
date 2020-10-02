@@ -1,3 +1,3 @@
-# minetest-mods
+# Put Your Mod Name Here
 
-A template of minetest mods
+This is a sample README document. Please replace this to your own one.
